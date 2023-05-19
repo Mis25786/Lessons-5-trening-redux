@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lessons-5-trening-redux/static/css/main.7acaea2f.css",
+    "main.js": "/lessons-5-trening-redux/static/js/main.83d20a66.js",
+    "index.html": "/lessons-5-trening-redux/index.html",
+    "main.7acaea2f.css.map": "/lessons-5-trening-redux/static/css/main.7acaea2f.css.map",
+    "main.83d20a66.js.map": "/lessons-5-trening-redux/static/js/main.83d20a66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.83d20a66.js"
+  ]
+}
